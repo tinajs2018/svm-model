@@ -1,0 +1,16 @@
+company,job,degree,salary six fig
+google,sales,bachelors,0
+google,dev,bachelors,1
+google,sales,masters,1
+google,sales,masters,1
+facebook,dev,bachelors,1
+facebook,sales,masters,0
+facebook,mkting,bachelors,1
+facebook,dev,masters,1
+Amazon,dev,bachelors,1
+Amazon,sales,bachelors,0
+Amazon,mkting,bachelors,0
+Amazon,sales,masters,1
+Andela,sales,masters,1
+Andela,dev,bachelors,1
+Andela,mkting,bachelors,0
